@@ -30,4 +30,4 @@ processer, hvordan man konstruerer en softmax classifier vha. programmering, og 
 man kan teste den.  Idet at man bruger den til at klassificere billeder.
 
 ## Læs mere
-Se vedhæftet pdf.
+[Se vedhæftet pdf](https://github.com/aminskey/Studieomraadeprojekt/blob/main/Paper-on-softmax-classifier.pdf).
